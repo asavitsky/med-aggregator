@@ -9,16 +9,16 @@
     "working_hours": "09:00–21:00",
     "languages": ["English", "Georgian", "Russian"],
     "services": [
-      { "name": "General Practitioner", "price": 150, "category": "Consultation" },
-      { "name": "Pediatrician", "price": 160, "category": "Consultation" },
-      { "name": "Gynecologist", "price": 170, "category": "Consultation" },
-      { "name": "Dermatologist", "price": 160, "category": "Consultation" },
-      { "name": "ENT Specialist", "price": 150, "category": "Consultation" },
-      { "name": "Endocrinologist", "price": 180, "category": "Consultation" },
-      { "name": "Cardiologist", "price": 170, "category": "Consultation" },
-      { "name": "Neurologist", "price": 190, "category": "Consultation" },
-      { "name": "Urologist", "price": 160, "category": "Consultation" },
-      { "name": "Psychologist", "price": 200, "category": "Consultation" }
+      { "name": "General Practitioner", "price": 0, "category": "Consultation" },
+      { "name": "Pediatrician", "price": 0, "category": "Consultation" },
+      { "name": "Gynecologist", "price": 0, "category": "Consultation" },
+      { "name": "Dermatologist", "price": 0, "category": "Consultation" },
+      { "name": "ENT Specialist", "price": 0, "category": "Consultation" },
+      { "name": "Endocrinologist", "price": 0, "category": "Consultation" },
+      { "name": "Cardiologist", "price": 0, "category": "Consultation" },
+      { "name": "Neurologist", "price": 0, "category": "Consultation" },
+      { "name": "Urologist", "price": 0, "category": "Consultation" },
+      { "name": "Psychologist", "price": 0, "category": "Consultation" }
     ]
   },
   {
@@ -31,16 +31,16 @@
     "working_hours": "09:00–17:30",
     "languages": ["Georgian", "English"],
     "services": [
-      { "name": "General Practitioner", "price": 140, "category": "Consultation" },
-      { "name": "Pediatrician", "price": 150, "category": "Consultation" },
-      { "name": "Gynecologist", "price": 160, "category": "Consultation" },
-      { "name": "Dermatologist", "price": 140, "category": "Consultation" },
-      { "name": "ENT Specialist", "price": 130, "category": "Consultation" },
-      { "name": "Endocrinologist", "price": 150, "category": "Consultation" },
-      { "name": "Cardiologist", "price": 160, "category": "Consultation" },
-      { "name": "Neurologist", "price": 180, "category": "Consultation" },
-      { "name": "Urologist", "price": 150, "category": "Consultation" },
-      { "name": "Psychologist", "price": 170, "category": "Consultation" }
+      { "name": "General Practitioner", "price": 0, "category": "Consultation" },
+      { "name": "Pediatrician", "price": 0, "category": "Consultation" },
+      { "name": "Gynecologist", "price": 0, "category": "Consultation" },
+      { "name": "Dermatologist", "price": 0, "category": "Consultation" },
+      { "name": "ENT Specialist", "price": 0, "category": "Consultation" },
+      { "name": "Endocrinologist", "price": 0, "category": "Consultation" },
+      { "name": "Cardiologist", "price": 0, "category": "Consultation" },
+      { "name": "Neurologist", "price": 0, "category": "Consultation" },
+      { "name": "Urologist", "price": 0, "category": "Consultation" },
+      { "name": "Psychologist", "price": 0, "category": "Consultation" }
     ]
   },
   {
@@ -53,16 +53,16 @@
     "working_hours": "10:00–19:00",
     "languages": ["English", "Georgian"],
     "services": [
-      { "name": "General Practitioner", "price": 155, "category": "Consultation" },
-      { "name": "Pediatrician", "price": 165, "category": "Consultation" },
-      { "name": "Gynecologist", "price": 175, "category": "Consultation" },
-      { "name": "Dermatologist", "price": 155, "category": "Consultation" },
-      { "name": "ENT Specialist", "price": 145, "category": "Consultation" },
-      { "name": "Endocrinologist", "price": 165, "category": "Consultation" },
-      { "name": "Cardiologist", "price": 175, "category": "Consultation" },
-      { "name": "Neurologist", "price": 185, "category": "Consultation" },
-      { "name": "Urologist", "price": 160, "category": "Consultation" },
-      { "name": "Psychologist", "price": 190, "category": "Consultation" }
+      { "name": "General Practitioner", "price": 0, "category": "Consultation" },
+      { "name": "Pediatrician", "price": 0, "category": "Consultation" },
+      { "name": "Gynecologist", "price": 0, "category": "Consultation" },
+      { "name": "Dermatologist", "price": 0, "category": "Consultation" },
+      { "name": "ENT Specialist", "price": 0, "category": "Consultation" },
+      { "name": "Endocrinologist", "price": 0, "category": "Consultation" },
+      { "name": "Cardiologist", "price": 0, "category": "Consultation" },
+      { "name": "Neurologist", "price": 0, "category": "Consultation" },
+      { "name": "Urologist", "price": 0, "category": "Consultation" },
+      { "name": "Psychologist", "price": 0, "category": "Consultation" }
     ]
   },
   {
@@ -75,16 +75,16 @@
     "working_hours": "08:00–20:00",
     "languages": ["English", "Georgian", "Russian"],
     "services": [
-      { "name": "General Practitioner", "price": 145, "category": "Consultation" },
-      { "name": "Pediatrician", "price": 155, "category": "Consultation" },
-      { "name": "Gynecologist", "price": 165, "category": "Consultation" },
-      { "name": "Dermatologist", "price": 150, "category": "Consultation" },
-      { "name": "ENT Specialist", "price": 140, "category": "Consultation" },
-      { "name": "Endocrinologist", "price": 160, "category": "Consultation" },
-      { "name": "Cardiologist", "price": 170, "category": "Consultation" },
-      { "name": "Neurologist", "price": 180, "category": "Consultation" },
-      { "name": "Urologist", "price": 155, "category": "Consultation" },
-      { "name": "Psychologist", "price": 185, "category": "Consultation" }
+      { "name": "General Practitioner", "price": 0, "category": "Consultation" },
+      { "name": "Pediatrician", "price": 0, "category": "Consultation" },
+      { "name": "Gynecologist", "price": 0, "category": "Consultation" },
+      { "name": "Dermatologist", "price": 0, "category": "Consultation" },
+      { "name": "ENT Specialist", "price": 0, "category": "Consultation" },
+      { "name": "Endocrinologist", "price": 0, "category": "Consultation" },
+      { "name": "Cardiologist", "price": 0, "category": "Consultation" },
+      { "name": "Neurologist", "price": 0, "category": "Consultation" },
+      { "name": "Urologist", "price": 0, "category": "Consultation" },
+      { "name": "Psychologist", "price": 0, "category": "Consultation" }
     ]
   },
   {
@@ -97,16 +97,16 @@
     "working_hours": "08:00–22:00",
     "languages": ["Georgian", "English"],
     "services": [
-      { "name": "General Practitioner", "price": 160, "category": "Consultation" },
-      { "name": "Pediatrician", "price": 170, "category": "Consultation" },
-      { "name": "Gynecologist", "price": 180, "category": "Consultation" },
-      { "name": "Dermatologist", "price": 165, "category": "Consultation" },
-      { "name": "ENT Specialist", "price": 155, "category": "Consultation" },
-      { "name": "Endocrinologist", "price": 175, "category": "Consultation" },
-      { "name": "Cardiologist", "price": 185, "category": "Consultation" },
-      { "name": "Neurologist", "price": 195, "category": "Consultation" },
-      { "name": "Urologist", "price": 170, "category": "Consultation" },
-      { "name": "Psychologist", "price": 210, "category": "Consultation" }
+      { "name": "General Practitioner", "price": 0, "category": "Consultation" },
+      { "name": "Pediatrician", "price": 0, "category": "Consultation" },
+      { "name": "Gynecologist", "price": 0, "category": "Consultation" },
+      { "name": "Dermatologist", "price": 0, "category": "Consultation" },
+      { "name": "ENT Specialist", "price": 0, "category": "Consultation" },
+      { "name": "Endocrinologist", "price": 0, "category": "Consultation" },
+      { "name": "Cardiologist", "price": 0, "category": "Consultation" },
+      { "name": "Neurologist", "price": 0, "category": "Consultation" },
+      { "name": "Urologist", "price": 0, "category": "Consultation" },
+      { "name": "Psychologist", "price": 0, "category": "Consultation" }
     ]
   }
 ]
