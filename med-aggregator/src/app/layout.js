@@ -14,6 +14,19 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Medical Services in Tbilisi",
   description: "Compare clinic prices, find doctors, and explore healthcare services in Tbilisi.",
+  openGraph: {
+    title: "Medical Services in Tbilisi",
+    description: "Compare clinic prices, find doctors, and explore healthcare services in Tbilisi.",
+    url: "https://med-aggregator.vercel.app/",
+    siteName: "Med Aggregator",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Medical Services in Tbilisi",
+    description: "Compare clinic prices, find doctors, and explore healthcare services in Tbilisi.",
+  },
 };
 
 export default function RootLayout({ children }) {
